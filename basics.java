@@ -50,5 +50,8 @@ public class basics{
         // for(int b:a){
         //     System.out.println(b);
         // } 
+    //Array
+    int[] num={1,2,3,4,5,6,7,8,9,10};
+    System.out.println("Here is the list "+num);
     }
 }
